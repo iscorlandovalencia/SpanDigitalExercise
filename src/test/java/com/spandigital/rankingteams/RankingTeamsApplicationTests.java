@@ -1,4 +1,4 @@
-package com.spandigital.RankingTeams;
+package com.spandigital.rankingteams;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;

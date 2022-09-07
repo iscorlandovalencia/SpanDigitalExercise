@@ -1,4 +1,4 @@
-package com.spandigital.RankingTeams;
+package com.spandigital.rankingteams;
 
 import java.util.ArrayList;
 import java.util.List;
