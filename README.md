@@ -12,6 +12,7 @@ The input and output will be text. Either using stdin/stdout or taking filenames
 Instructions
 
 Make sure the version of java 17 is installed
+
 Make sure maven is installed
 
 - Open command line
