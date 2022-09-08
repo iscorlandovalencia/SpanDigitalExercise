@@ -1,4 +1,4 @@
-package com.spandigital.rankingteams;
+package com.spandigital.RankingTeams;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
@@ -10,6 +10,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.spandigital.RankingTeams.RankingTeamsApplication;
 import com.spandigital.exceptions.EmptyException;
 import com.spandigital.exceptions.RankingException;
 
